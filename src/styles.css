@@ -1,0 +1,16 @@
+body {
+  background: papayawhip;
+}
+
+h1 {
+  text-align: center;
+  color: indianred;
+}
+
+a {
+  color: indianred;
+}
+
+a:visited {
+  color: darkred;
+}
